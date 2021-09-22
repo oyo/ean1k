@@ -1,4 +1,4 @@
-EAN-13/UPC barcode renderer
+# EAN-13/UPC barcode renderer
 
 Enter a 13-digit number in the input field - the app draws the barcode while you are typing.
 
